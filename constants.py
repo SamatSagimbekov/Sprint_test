@@ -1,4 +1,4 @@
-name_const = 'samatsagimbekov@yandex.kz'
+name_const = 'samatsagimbekov@ya.ru'
 password_const = 'Guyz21720'
 
 
